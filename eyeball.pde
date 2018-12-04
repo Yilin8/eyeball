@@ -1,5 +1,6 @@
 //add eyeball code here
 size(600,300);
+background(255);
 
 noFill();
 stroke(0,0,0);
